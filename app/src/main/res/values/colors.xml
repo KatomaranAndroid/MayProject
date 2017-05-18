@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="grayIconTint">#727272</color>
+
+    <color name="shopAccent">#84ceca</color>
+    <color name="shopSecondary">#727272</color>
+    <color name="shopRatedStar">#ffeb5a</color>
+    <color name="shopFabRipple">#51b2ac</color>
+
+    <color name="galleryBg">#212121</color>
+    <color name="galleryCurrentItemOverlay">@android:color/transparent</color>
+    <color name="galleryItemOverlay">#cc000000</color>
+    <color name="galleryEdgeEffect">#b4ffffff</color>
+    <color name="galleryAccent">#FFC107</color>
+
+    <color name="iconcolour">#FF5722</color>
+
+    <color name="grey_300">#e0e0e0</color>
+    <color name="farmr_teal_500">#2fc3c1</color>
+    <color name="app_dark_100">#000000</color>
+    <color name="medium_green_800">#8e948f</color>
+    <color name="green">@color/green_500</color>
+    <color name="green_500">#00cd6f</color>
+
+    <color name="medium_green_900">#626763</color>
+    <color name="white">#ffffff</color>
+
+</resources>
